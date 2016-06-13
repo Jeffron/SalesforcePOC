@@ -1,2 +1,1 @@
-"# SalesforcePOC" 
-"# SalesforcePOC" 
+This is a test of checkin with Git.
